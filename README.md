@@ -1,4 +1,6 @@
 ### Hi there 👋
+I’m currently a student at Colorado Technical University.
+ I’m working towards a Bachelor's in Computer Science with a concentration in Software Engineering.  
 
 <!--
 **daraudoh/daraudoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
